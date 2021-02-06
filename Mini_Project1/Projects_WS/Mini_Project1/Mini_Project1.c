@@ -1,8 +1,6 @@
 /*
  * Mini_Project1.c
- *
- *  Created on: Jun 19, 2017
- *  Author: Mohamed Tarek
+ *  Author: Gouda
  */
 
 #include <avr/io.h>
